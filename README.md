@@ -32,20 +32,20 @@ Installation of the Chatterbot Library - version 0.7.4 recommended
 
 Libraries used:
 
-from chatterbot import ChatBot
-from chatterbot.trainers import ListTrainer
-from chatterbot.trainers import ChatterBotCorpusTrainer
-import sys 
-import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-import pickle
-import spacy
-import string
-import en_core_web_sm
-from spacy.lang.en import English
-from sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS as stopwords 
-from autocorrect import spell
-from spellchecker import SpellChecker
+   from chatterbot import ChatBot
+   from chatterbot.trainers import ListTrainer
+   from chatterbot.trainers import ChatterBotCorpusTrainer
+   import sys 
+   import pandas as pd
+   from sklearn.feature_extraction.text import TfidfVectorizer
+   import pickle
+   import spacy
+   import string
+   import en_core_web_sm
+   from spacy.lang.en import English
+   from sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS as stopwords 
+   from autocorrect import spell
+   from spellchecker import SpellChecker
 
 Make sure that you have this libraries installed. To do so, you can use the command pip3 install <library_name>
 
