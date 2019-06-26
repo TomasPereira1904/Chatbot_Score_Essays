@@ -8,4 +8,6 @@ It is a pipeline system that:
   
 Eusebio is a chatbot that you should run on your own terminal. It is designed to be used as a personal tool while users write their own essays.
 
-#
+# How to install and run Eusebio
+
+## Install
