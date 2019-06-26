@@ -54,11 +54,11 @@ Make sure that you have this libraries installed. To do so, you can use the comm
 
 To run Eusebio you have to:
 
-  1.Clone the github repository into your local file
-  2.Add your essay to the file 'test_nlp.csv' -> 'essay' columns -> save file
-  3.Open Applications -> terminal
-  4.Change the current directory to the folder cloned from github (use cd <name_directory> , e.g. cd Desktop)
-  5.Run the chatbot with the command python3 Chatbot.py
-  6.Enjoy the result!
+  1. Clone the github repository into your local file
+  2. Add your essay to the file 'test_nlp.csv' -> 'essay' columns -> save file
+  3. Open Applications -> terminal
+  4. Change the current directory to the folder cloned from github (use cd <name_directory> , e.g. cd Desktop)
+  5. Run the chatbot with the command python3 Chatbot.py
+  6. Enjoy the result!
 
 
