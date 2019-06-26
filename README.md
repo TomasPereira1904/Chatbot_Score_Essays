@@ -27,7 +27,9 @@ Python 3.6 is the recommended version.
 Installation of the Chatterbot Library - version 0.7.4 recommended
 
 !pip install chatterbot
+
 !pip install chatterbot-corpus
+
 !pip install --upgrade chatterbot==0.7.4 . 
 
 Libraries used:
