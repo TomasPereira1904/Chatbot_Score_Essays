@@ -12,8 +12,11 @@ This repository has several files that the chatbot relies on to function:
 
   - test_nlp.csv -> csv file used to paste the user's essay
   - Chatbot.py -> Python programme with the main functions of the chatbot
-  - random_forest_model.pk -> Regression Algorithm designed to predict the score of the essay
+  - random_forest_model.pk.zip -> Regression Algorithm designed to predict the score of the essay***
   - vectorizer.pk -> Tfidf Vectorizer, containing a pre-process of data structuring and cleaning
+  
+  
+*** Github capabilities of uploading files with more than 25MB created difficulties when uploading the model to the repository. 
   
 
 # How to install and run Eusebio
@@ -57,6 +60,7 @@ Make sure that you have this libraries installed. To do so, you can use the comm
 To run Eusebio you have to:
 
   1. Clone the github repository into your local file
+    1.1 Unzip the Random_Forest_Model.pk.zip
   2. Add your essay to the file 'test_nlp.csv' -> 'essay' columns -> save file
   3. Open Applications -> terminal
   4. Change the current directory to the folder cloned from github (use cd <name_directory> , e.g. cd Desktop)
